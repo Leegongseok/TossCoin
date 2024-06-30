@@ -20,5 +20,4 @@
         android:startOffset="1000"
         android:fromYDelta="0%"
         android:toYDelta="100%"
-        android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>fxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-</set>
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
